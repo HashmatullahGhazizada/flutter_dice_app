@@ -1,1 +1,1 @@
-# flutter_dice_app
+this is my first app in flutter
